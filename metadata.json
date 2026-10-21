@@ -1,0 +1,8 @@
+{
+  "name": "Spelling Bee Trainer",
+  "description": "AI-powered spoken spelling bee trainer with keyboard-only drilling, silly sentences, letter-by-letter corrections, and mastery tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
